@@ -1,2 +1,2 @@
 # OlympicsAnalysis
-A collection of DuckDB SQL queries for analysis of Olympics is stored in this repository. 
+A collection of DuckDB SQL queries for analysis of 2024 Summer Olympics is stored in this repository. 
